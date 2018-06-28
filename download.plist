@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>io.insightchain</string>
+				<string>com.imallresearch.Insights</string>
 				<key>bundle-version</key>
 				<string>1.2.1</string>
 				<key>kind</key>
