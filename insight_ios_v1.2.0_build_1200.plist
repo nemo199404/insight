@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.imallresearch.Insights</string>
 				<key>bundle-version</key>
-				<string>1.2.0</string>
+				<string>1.2.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
